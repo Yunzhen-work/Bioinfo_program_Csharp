@@ -1,0 +1,27 @@
+h:\文档\C#\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\bin\Debug\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.exe.config
+h:\文档\C#\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\bin\Debug\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.exe
+h:\文档\C#\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\bin\Debug\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.pdb
+h:\文档\C#\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.csprojResolveAssemblyReference.cache
+h:\文档\C#\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理程序_10_处理gtf文件_分类pseudo_mRNA_lncRNA并分列处理数据.Form1.resources
+h:\文档\C#\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理程序_10_处理gtf文件_分类pseudo_mRNA_lncRNA并分列处理数据.Properties.Resources.resources
+h:\文档\C#\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.csproj.GenerateResource.Cache
+h:\文档\C#\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.exe
+h:\文档\C#\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理程序-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.pdb
+H:\文档\C#\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\bin\Debug\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.exe.config
+H:\文档\C#\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\bin\Debug\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.exe
+H:\文档\C#\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\bin\Debug\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.pdb
+H:\文档\C#\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理数据_10_处理gtf文件_分类pseudo_mRNA_lncRNA并分列处理数据.Form1.resources
+H:\文档\C#\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理数据_10_处理gtf文件_分类pseudo_mRNA_lncRNA并分列处理数据.Properties.Resources.resources
+H:\文档\C#\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.csproj.GenerateResource.Cache
+H:\文档\C#\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.exe
+H:\文档\C#\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.pdb
+G:\研究生课题相关\procedure\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\bin\Debug\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.exe.config
+G:\研究生课题相关\procedure\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\bin\Debug\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.exe
+G:\研究生课题相关\procedure\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\bin\Debug\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.pdb
+G:\研究生课题相关\procedure\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.csproj.AssemblyReference.cache
+G:\研究生课题相关\procedure\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理数据_10_处理gtf文件_分类pseudo_mRNA_lncRNA并分列处理数据.Form1.resources
+G:\研究生课题相关\procedure\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理数据_10_处理gtf文件_分类pseudo_mRNA_lncRNA并分列处理数据.Properties.Resources.resources
+G:\研究生课题相关\procedure\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.csproj.GenerateResource.cache
+G:\研究生课题相关\procedure\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.csproj.CoreCompileInputs.cache
+G:\研究生课题相关\procedure\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.exe
+G:\研究生课题相关\procedure\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据\obj\Debug\自动处理数据-10 处理gtf文件：分类pseudo、mRNA、lncRNA并分列处理数据.pdb

@@ -1,0 +1,21 @@
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-2\自动处理数据-2\bin\Debug\自动处理数据-2.exe.config
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-2\自动处理数据-2\bin\Debug\自动处理数据-2.exe
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-2\自动处理数据-2\bin\Debug\自动处理数据-2.pdb
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-2\自动处理数据-2\obj\Debug\自动处理数据_2.Form1.resources
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-2\自动处理数据-2\obj\Debug\自动处理数据_2.Properties.Resources.resources
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-2\自动处理数据-2\obj\Debug\交叉合并两文件行.csproj.GenerateResource.Cache
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-2\自动处理数据-2\obj\Debug\自动处理数据-2.exe
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-2\自动处理数据-2\obj\Debug\自动处理数据-2.pdb
+H:\文档\C#\自动处理数据-2 交叉合并两文件行\自动处理数据-2\bin\Debug\自动处理数据-2.exe.config
+H:\文档\C#\自动处理数据-2 交叉合并两文件行\自动处理数据-2\obj\Debug\自动处理数据-2.exe
+H:\文档\C#\自动处理数据-2 交叉合并两文件行\自动处理数据-2\obj\Debug\自动处理数据-2.pdb
+G:\研究生课题相关\procedure\自动处理数据-2 交叉合并两文件行\自动处理数据-2\bin\Debug\自动处理数据-2.exe.config
+G:\研究生课题相关\procedure\自动处理数据-2 交叉合并两文件行\自动处理数据-2\bin\Debug\自动处理数据-2.exe
+G:\研究生课题相关\procedure\自动处理数据-2 交叉合并两文件行\自动处理数据-2\bin\Debug\自动处理数据-2.pdb
+G:\研究生课题相关\procedure\自动处理数据-2 交叉合并两文件行\自动处理数据-2\obj\Debug\交叉合并两文件行.csproj.AssemblyReference.cache
+G:\研究生课题相关\procedure\自动处理数据-2 交叉合并两文件行\自动处理数据-2\obj\Debug\自动处理数据_2.Form1.resources
+G:\研究生课题相关\procedure\自动处理数据-2 交叉合并两文件行\自动处理数据-2\obj\Debug\自动处理数据_2.Properties.Resources.resources
+G:\研究生课题相关\procedure\自动处理数据-2 交叉合并两文件行\自动处理数据-2\obj\Debug\交叉合并两文件行.csproj.GenerateResource.cache
+G:\研究生课题相关\procedure\自动处理数据-2 交叉合并两文件行\自动处理数据-2\obj\Debug\交叉合并两文件行.csproj.CoreCompileInputs.cache
+G:\研究生课题相关\procedure\自动处理数据-2 交叉合并两文件行\自动处理数据-2\obj\Debug\自动处理数据-2.exe
+G:\研究生课题相关\procedure\自动处理数据-2 交叉合并两文件行\自动处理数据-2\obj\Debug\自动处理数据-2.pdb

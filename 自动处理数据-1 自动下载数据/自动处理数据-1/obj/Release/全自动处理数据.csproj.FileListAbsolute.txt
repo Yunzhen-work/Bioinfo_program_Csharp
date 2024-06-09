@@ -1,0 +1,27 @@
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\全自动处理数据.exe.config
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\全自动处理数据.exe
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\全自动处理数据.pdb
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\NPOI.dll
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\NPOI.OOXML.dll
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\NPOI.OpenXml4Net.dll
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\NPOI.OpenXmlFormats.dll
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\NPOI.xml
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\NPOI.OOXML.xml
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\NPOI.OpenXml4Net.xml
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\obj\Release\自动处理数据_1.自动处理数据.resources
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\obj\Release\全自动处理数据.Properties.Resources.resources
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\obj\Release\全自动处理数据.csproj.GenerateResource.Cache
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\obj\Release\全自动处理数据.exe
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\obj\Release\全自动处理数据.pdb
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\obj\Release\全自动处理数据.csprojResolveAssemblyReference.cache
+G:\研究生课题相关\procedure\自动处理数据-1 自动下载数据\自动处理数据-1\bin\Release\全自动处理数据.exe.config
+G:\研究生课题相关\procedure\自动处理数据-1 自动下载数据\自动处理数据-1\bin\Release\全自动处理数据.exe
+G:\研究生课题相关\procedure\自动处理数据-1 自动下载数据\自动处理数据-1\bin\Release\全自动处理数据.pdb
+G:\研究生课题相关\procedure\自动处理数据-1 自动下载数据\自动处理数据-1\obj\Release\全自动处理数据.csproj.AssemblyReference.cache
+G:\研究生课题相关\procedure\自动处理数据-1 自动下载数据\自动处理数据-1\obj\Release\自动处理数据_1.自动处理数据.resources
+G:\研究生课题相关\procedure\自动处理数据-1 自动下载数据\自动处理数据-1\obj\Release\全自动处理数据.Properties.Resources.resources
+G:\研究生课题相关\procedure\自动处理数据-1 自动下载数据\自动处理数据-1\obj\Release\全自动处理数据.csproj.GenerateResource.cache
+G:\研究生课题相关\procedure\自动处理数据-1 自动下载数据\自动处理数据-1\obj\Release\全自动处理数据.csproj.CoreCompileInputs.cache
+G:\研究生课题相关\procedure\自动处理数据-1 自动下载数据\自动处理数据-1\obj\Release\全自动处理数据.csproj.Up2Date
+G:\研究生课题相关\procedure\自动处理数据-1 自动下载数据\自动处理数据-1\obj\Release\全自动处理数据.exe
+G:\研究生课题相关\procedure\自动处理数据-1 自动下载数据\自动处理数据-1\obj\Release\全自动处理数据.pdb

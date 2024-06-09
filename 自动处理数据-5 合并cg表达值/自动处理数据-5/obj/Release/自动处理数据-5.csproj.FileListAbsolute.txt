@@ -1,0 +1,22 @@
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-5\自动处理数据-5\bin\Release\自动处理数据-5.exe
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-5\自动处理数据-5\bin\Release\自动处理数据-5.pdb
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据_5.Form1.resources
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据_5.Properties.Resources.resources
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据-5.csproj.GenerateResource.Cache
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据-5.exe
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据-5.pdb
+H:\文档\C#\自动处理数据-5 合并cg表达值\自动处理数据-5\bin\Release\自动处理数据-5.exe
+H:\文档\C#\自动处理数据-5 合并cg表达值\自动处理数据-5\bin\Release\自动处理数据-5.pdb
+H:\文档\C#\自动处理数据-5 合并cg表达值\自动处理数据-5\obj\Release\自动处理数据_5.Form1.resources
+H:\文档\C#\自动处理数据-5 合并cg表达值\自动处理数据-5\obj\Release\自动处理数据_5.Properties.Resources.resources
+H:\文档\C#\自动处理数据-5 合并cg表达值\自动处理数据-5\obj\Release\自动处理数据-5.csproj.GenerateResource.Cache
+H:\文档\C#\自动处理数据-5 合并cg表达值\自动处理数据-5\obj\Release\自动处理数据-5.exe
+H:\文档\C#\自动处理数据-5 合并cg表达值\自动处理数据-5\obj\Release\自动处理数据-5.pdb
+H:\Documents\OneDrive\C#\自动处理数据-5 合并cg表达值\自动处理数据-5\bin\Release\自动处理数据-5.exe
+H:\Documents\OneDrive\C#\自动处理数据-5 合并cg表达值\自动处理数据-5\bin\Release\自动处理数据-5.pdb
+H:\Documents\OneDrive\C#\自动处理数据-5 合并cg表达值\自动处理数据-5\obj\Release\自动处理数据_5.Form1.resources
+H:\Documents\OneDrive\C#\自动处理数据-5 合并cg表达值\自动处理数据-5\obj\Release\自动处理数据_5.Properties.Resources.resources
+H:\Documents\OneDrive\C#\自动处理数据-5 合并cg表达值\自动处理数据-5\obj\Release\自动处理数据-5.csproj.GenerateResource.Cache
+H:\Documents\OneDrive\C#\自动处理数据-5 合并cg表达值\自动处理数据-5\obj\Release\自动处理数据-5.exe
+H:\Documents\OneDrive\C#\自动处理数据-5 合并cg表达值\自动处理数据-5\obj\Release\自动处理数据-5.pdb
+H:\Documents\OneDrive\C#\自动处理数据-5 合并cg表达值\自动处理数据-5\obj\Release\自动处理数据-5.csproj.CoreCompileInputs.cache

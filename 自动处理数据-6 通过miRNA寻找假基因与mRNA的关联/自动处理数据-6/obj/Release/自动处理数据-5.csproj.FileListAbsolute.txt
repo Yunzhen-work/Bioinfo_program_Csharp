@@ -1,0 +1,9 @@
+D:\C#\自动处理数据-5\自动处理数据-5\bin\Release\自动处理数据-5.exe.config
+D:\C#\自动处理数据-5\自动处理数据-5\bin\Release\自动处理数据-5.exe
+D:\C#\自动处理数据-5\自动处理数据-5\bin\Release\自动处理数据-5.pdb
+D:\C#\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据-5.csprojResolveAssemblyReference.cache
+D:\C#\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据_5.Form1.resources
+D:\C#\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据_5.Properties.Resources.resources
+D:\C#\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据-5.csproj.GenerateResource.Cache
+D:\C#\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据-5.exe
+D:\C#\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据-5.pdb

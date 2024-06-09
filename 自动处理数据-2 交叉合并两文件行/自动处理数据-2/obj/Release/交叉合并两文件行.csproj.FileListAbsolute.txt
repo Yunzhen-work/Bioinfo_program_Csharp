@@ -1,0 +1,8 @@
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-2\自动处理数据-2\bin\Release\自动处理数据-2.exe.config
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-2\自动处理数据-2\bin\Release\自动处理数据-2.exe
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-2\自动处理数据-2\bin\Release\自动处理数据-2.pdb
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-2\自动处理数据-2\obj\Release\自动处理数据_2.Form1.resources
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-2\自动处理数据-2\obj\Release\自动处理数据_2.Properties.Resources.resources
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-2\自动处理数据-2\obj\Release\交叉合并两文件行.csproj.GenerateResource.Cache
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-2\自动处理数据-2\obj\Release\自动处理数据-2.exe
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-2\自动处理数据-2\obj\Release\自动处理数据-2.pdb

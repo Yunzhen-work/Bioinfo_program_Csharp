@@ -1,0 +1,7 @@
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-7\自动处理数据-7\bin\Release\自动处理数据-7.exe
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-7\自动处理数据-7\bin\Release\自动处理数据-7.pdb
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-7\自动处理数据-7\obj\Release\自动处理数据_7.Form1.resources
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-7\自动处理数据-7\obj\Release\自动处理数据_7.Properties.Resources.resources
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-7\自动处理数据-7\obj\Release\自动处理数据-7.csproj.GenerateResource.Cache
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-7\自动处理数据-7\obj\Release\自动处理数据-7.exe
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-7\自动处理数据-7\obj\Release\自动处理数据-7.pdb

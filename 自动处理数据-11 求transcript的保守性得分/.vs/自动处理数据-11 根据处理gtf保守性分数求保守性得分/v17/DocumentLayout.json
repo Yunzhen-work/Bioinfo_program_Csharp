@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u7814\u7A76\u751F\u8BFE\u9898\u76F8\u5173\\procedure\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE792B5-B7D3-4C86-9A0A-3071D0002C11}|\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42\u4FDD\u5B88\u6027\u5F97\u5206.csproj|g:\\\u7814\u7A76\u751F\u8BFE\u9898\u76F8\u5173\\procedure\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAE792B5-B7D3-4C86-9A0A-3071D0002C11}|\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42\u4FDD\u5B88\u6027\u5F97\u5206.csproj|solutionrelative:\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42\u4FDD\u5B88\u6027\u5F97\u5206||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "G:\\\u7814\u7A76\u751F\u8BFE\u9898\u76F8\u5173\\procedure\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\Form1.cs",
+              "RelativeDocumentMoniker": "\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\Form1.cs",
+              "ToolTip": "G:\\\u7814\u7A76\u751F\u8BFE\u9898\u76F8\u5173\\procedure\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:25:20.377Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42\u4FDD\u5B88\u6027\u5F97\u5206",
+              "DocumentMoniker": "G:\\\u7814\u7A76\u751F\u8BFE\u9898\u76F8\u5173\\procedure\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42\u4FDD\u5B88\u6027\u5F97\u5206.csproj",
+              "RelativeDocumentMoniker": "\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42\u4FDD\u5B88\u6027\u5F97\u5206.csproj",
+              "ToolTip": "G:\\\u7814\u7A76\u751F\u8BFE\u9898\u76F8\u5173\\procedure\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42\u4FDD\u5B88\u6027\u5F97\u5206.csproj",
+              "RelativeToolTip": "\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42transcript\u7684\u4FDD\u5B88\u6027\u5F97\u5206\\\u81EA\u52A8\u5904\u7406\u6570\u636E-11 \u6C42\u4FDD\u5B88\u6027\u5F97\u5206.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-08T12:25:12.707Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

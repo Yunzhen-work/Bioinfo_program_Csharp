@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "交叉合并两文件行", "自动处理数据-2\交叉合并两文件行.csproj", "{EBACDCFF-1391-4572-98AA-EFC0FB2B06E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBACDCFF-1391-4572-98AA-EFC0FB2B06E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBACDCFF-1391-4572-98AA-EFC0FB2B06E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBACDCFF-1391-4572-98AA-EFC0FB2B06E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBACDCFF-1391-4572-98AA-EFC0FB2B06E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

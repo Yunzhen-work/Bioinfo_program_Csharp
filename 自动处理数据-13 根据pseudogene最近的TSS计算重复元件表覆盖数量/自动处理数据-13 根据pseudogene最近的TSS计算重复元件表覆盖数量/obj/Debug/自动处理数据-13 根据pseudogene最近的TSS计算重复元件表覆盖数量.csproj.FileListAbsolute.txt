@@ -1,0 +1,10 @@
+h:\文档\C#\自动处理数据-12 根据pseudogene最近的TSS计算重复元件表覆盖数量\自动处理数据-12 根据pseudogene最近的TSS计算重复元件表覆盖数量\bin\Debug\自动处理数据-12 根据pseudogene最近的TSS计算重复元件表覆盖数量.exe.config
+H:\文档\C#\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\bin\Debug\自动处理数据-12 根据pseudogene最近的TSS计算重复元件表覆盖数量.exe.config
+H:\文档\C#\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\obj\Debug\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量.csprojResolveAssemblyReference.cache
+H:\文档\C#\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\obj\Debug\自动处理数据_13_根据pseudogene最近的TSS计算重复元件表覆盖数量.Form1.resources
+H:\文档\C#\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\obj\Debug\自动处理数据_12_根据pseudogene最近的TSS计算重复元件表覆盖数量.Properties.Resources.resources
+H:\文档\C#\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\obj\Debug\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量.csproj.GenerateResource.Cache
+H:\文档\C#\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\bin\Debug\自动处理数据-12 根据pseudogene最近的TSS计算重复元件表覆盖数量.exe
+H:\文档\C#\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\bin\Debug\自动处理数据-12 根据pseudogene最近的TSS计算重复元件表覆盖数量.pdb
+H:\文档\C#\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\obj\Debug\自动处理数据-12 根据pseudogene最近的TSS计算重复元件表覆盖数量.exe
+H:\文档\C#\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\自动处理数据-13 根据pseudogene最近的TSS计算重复元件表覆盖数量\obj\Debug\自动处理数据-12 根据pseudogene最近的TSS计算重复元件表覆盖数量.pdb

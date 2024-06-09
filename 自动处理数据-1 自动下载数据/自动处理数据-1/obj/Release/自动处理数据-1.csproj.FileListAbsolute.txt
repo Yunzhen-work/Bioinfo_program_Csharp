@@ -1,0 +1,24 @@
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\自动处理数据-1.exe.config
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\自动处理数据-1.exe
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\自动处理数据-1.pdb
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\NPOI.dll
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\NPOI.OOXML.dll
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\NPOI.OpenXml4Net.dll
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\NPOI.OpenXmlFormats.dll
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\NPOI.xml
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\NPOI.OOXML.xml
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-1\自动处理数据-1\bin\Release\NPOI.OpenXml4Net.xml
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-1\自动处理数据-1\obj\Release\自动处理数据_1.Properties.Resources.resources
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-1\自动处理数据-1\obj\Release\自动处理数据-1.csproj.GenerateResource.Cache
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-1\自动处理数据-1\obj\Release\自动处理数据-1.exe
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-1\自动处理数据-1\obj\Release\自动处理数据-1.pdb
+D:\C#\Projects\自动处理数据-1\自动处理数据-1\bin\Release\自动处理数据-1.exe.config
+D:\C#\Projects\自动处理数据-1\自动处理数据-1\bin\Release\自动处理数据-1.exe
+D:\C#\Projects\自动处理数据-1\自动处理数据-1\bin\Release\自动处理数据-1.pdb
+D:\C#\Projects\自动处理数据-1\自动处理数据-1\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\C#\Projects\自动处理数据-1\自动处理数据-1\obj\Release\自动处理数据_1.自动处理数据.resources
+D:\C#\Projects\自动处理数据-1\自动处理数据-1\obj\Release\自动处理数据_1.Properties.Resources.resources
+D:\C#\Projects\自动处理数据-1\自动处理数据-1\obj\Release\自动处理数据-1.csproj.GenerateResource.Cache
+D:\C#\Projects\自动处理数据-1\自动处理数据-1\obj\Release\自动处理数据-1.exe
+D:\C#\Projects\自动处理数据-1\自动处理数据-1\obj\Release\自动处理数据-1.pdb
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-1\自动处理数据-1\obj\Release\自动处理数据_1.自动处理数据.resources

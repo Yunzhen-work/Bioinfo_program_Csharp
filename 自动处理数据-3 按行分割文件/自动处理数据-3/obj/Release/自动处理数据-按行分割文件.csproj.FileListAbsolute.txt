@@ -1,0 +1,7 @@
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-3\自动处理数据-3\bin\Release\自动处理数据-3.exe
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-3\自动处理数据-3\bin\Release\自动处理数据-3.pdb
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-3\自动处理数据-3\obj\Release\自动处理数据_3.Form1.resources
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-3\自动处理数据-3\obj\Release\自动处理数据_3.Properties.Resources.resources
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-3\自动处理数据-3\obj\Release\自动处理数据-按行分割文件.csproj.GenerateResource.Cache
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-3\自动处理数据-3\obj\Release\自动处理数据-3.exe
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-3\自动处理数据-3\obj\Release\自动处理数据-3.pdb

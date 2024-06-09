@@ -1,0 +1,14 @@
+H:\Documents\OneDrive\C#\自动处理数据-11 求transcript的保守性得分\自动处理数据-11 求transcript的保守性得分\bin\x64\Release\自动处理数据-11 根据处理的gtf文件和保守性分数文件求transcript的保守性得分.exe.config
+H:\Documents\OneDrive\C#\自动处理数据-11 求transcript的保守性得分\自动处理数据-11 求transcript的保守性得分\bin\x64\Release\自动处理数据-11 根据处理的gtf文件和保守性分数文件求transcript的保守性得分.exe
+H:\Documents\OneDrive\C#\自动处理数据-11 求transcript的保守性得分\自动处理数据-11 求transcript的保守性得分\obj\x64\Release\自动处理数据_11_求transcript的保守性得分.Form1.resources
+H:\Documents\OneDrive\C#\自动处理数据-11 求transcript的保守性得分\自动处理数据-11 求transcript的保守性得分\obj\x64\Release\自动处理数据_11_根据处理的gtf文件和保守性分数文件求transcript的保守性得分.Properties.Resources.resources
+H:\Documents\OneDrive\C#\自动处理数据-11 求transcript的保守性得分\自动处理数据-11 求transcript的保守性得分\obj\x64\Release\自动处理数据-11 求保守性得分.csproj.GenerateResource.Cache
+H:\Documents\OneDrive\C#\自动处理数据-11 求transcript的保守性得分\自动处理数据-11 求transcript的保守性得分\obj\x64\Release\自动处理数据-11 求保守性得分.csproj.CoreCompileInputs.cache
+H:\Documents\OneDrive\C#\自动处理数据-11 求transcript的保守性得分\自动处理数据-11 求transcript的保守性得分\obj\x64\Release\自动处理数据-11 根据处理的gtf文件和保守性分数文件求transcript的保守性得分.exe
+K:\研究生课题相关\procedure\自动处理数据-11 求transcript的保守性得分\自动处理数据-11 求transcript的保守性得分\bin\x64\Release\自动处理数据-11 根据处理的gtf文件和保守性分数文件求transcript的保守性得分.exe.config
+K:\研究生课题相关\procedure\自动处理数据-11 求transcript的保守性得分\自动处理数据-11 求transcript的保守性得分\bin\x64\Release\自动处理数据-11 根据处理的gtf文件和保守性分数文件求transcript的保守性得分.exe
+K:\研究生课题相关\procedure\自动处理数据-11 求transcript的保守性得分\自动处理数据-11 求transcript的保守性得分\obj\x64\Release\自动处理数据_11_求transcript的保守性得分.Form1.resources
+K:\研究生课题相关\procedure\自动处理数据-11 求transcript的保守性得分\自动处理数据-11 求transcript的保守性得分\obj\x64\Release\自动处理数据_11_根据处理的gtf文件和保守性分数文件求transcript的保守性得分.Properties.Resources.resources
+K:\研究生课题相关\procedure\自动处理数据-11 求transcript的保守性得分\自动处理数据-11 求transcript的保守性得分\obj\x64\Release\自动处理数据-11 求保守性得分.csproj.GenerateResource.cache
+K:\研究生课题相关\procedure\自动处理数据-11 求transcript的保守性得分\自动处理数据-11 求transcript的保守性得分\obj\x64\Release\自动处理数据-11 求保守性得分.csproj.CoreCompileInputs.cache
+K:\研究生课题相关\procedure\自动处理数据-11 求transcript的保守性得分\自动处理数据-11 求transcript的保守性得分\obj\x64\Release\自动处理数据-11 根据处理的gtf文件和保守性分数文件求transcript的保守性得分.exe

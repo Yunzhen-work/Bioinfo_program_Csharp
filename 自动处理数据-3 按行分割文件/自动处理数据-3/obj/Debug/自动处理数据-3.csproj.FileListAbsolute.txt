@@ -1,0 +1,8 @@
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-3\自动处理数据-3\bin\Debug\自动处理数据-3.exe
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-3\自动处理数据-3\bin\Debug\自动处理数据-3.pdb
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-3\自动处理数据-3\obj\Debug\自动处理数据-3.csprojResolveAssemblyReference.cache
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-3\自动处理数据-3\obj\Debug\自动处理数据_3.Form1.resources
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-3\自动处理数据-3\obj\Debug\自动处理数据_3.Properties.Resources.resources
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-3\自动处理数据-3\obj\Debug\自动处理数据-3.csproj.GenerateResource.Cache
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-3\自动处理数据-3\obj\Debug\自动处理数据-3.exe
+f:\360data\重要数据\我的文档\visual studio 2013\Projects\自动处理数据-3\自动处理数据-3\obj\Debug\自动处理数据-3.pdb

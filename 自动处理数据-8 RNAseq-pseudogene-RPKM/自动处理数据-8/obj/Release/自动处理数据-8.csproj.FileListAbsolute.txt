@@ -1,0 +1,53 @@
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-8\自动处理数据-8\bin\Release\自动处理数据-8.exe.config
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-8\自动处理数据-8\bin\Release\自动处理数据-8.exe
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-8\自动处理数据-8\bin\Release\自动处理数据-8.pdb
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据_8.Form1.resources
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据_8.Properties.Resources.resources
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据-8.csproj.GenerateResource.Cache
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据-8.exe
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据-8.pdb
+Q:\数据\C#\自动处理数据-8\自动处理数据-8\bin\Release\自动处理数据-8.exe.config
+Q:\数据\C#\自动处理数据-8\自动处理数据-8\bin\Release\自动处理数据-8.exe
+Q:\数据\C#\自动处理数据-8\自动处理数据-8\bin\Release\自动处理数据-8.pdb
+Q:\数据\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据-8.csprojResolveAssemblyReference.cache
+Q:\数据\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据_8.Form1.resources
+Q:\数据\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据_8.Properties.Resources.resources
+Q:\数据\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据-8.csproj.GenerateResource.Cache
+Q:\数据\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据-8.exe
+Q:\数据\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据-8.pdb
+H:\文档\C#\自动处理数据-8\自动处理数据-8\bin\Release\自动处理数据-8.exe.config
+H:\文档\C#\自动处理数据-8\自动处理数据-8\bin\Release\自动处理数据-8.exe
+H:\文档\C#\自动处理数据-8\自动处理数据-8\bin\Release\自动处理数据-8.pdb
+H:\文档\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据-8.csprojResolveAssemblyReference.cache
+H:\文档\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据_8.Form1.resources
+H:\文档\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据_8.Properties.Resources.resources
+H:\文档\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据-8.csproj.GenerateResource.Cache
+H:\文档\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据-8.exe
+H:\文档\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据-8.pdb
+D:\C#\自动处理数据-8\自动处理数据-8\bin\Release\自动处理数据-8.exe.config
+D:\C#\自动处理数据-8\自动处理数据-8\bin\Release\自动处理数据-8.exe
+D:\C#\自动处理数据-8\自动处理数据-8\bin\Release\自动处理数据-8.pdb
+D:\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据_8.Form1.resources
+D:\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据_8.Properties.Resources.resources
+D:\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据-8.csproj.GenerateResource.Cache
+D:\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据-8.exe
+D:\C#\自动处理数据-8\自动处理数据-8\obj\Release\自动处理数据-8.pdb
+H:\文档\C#\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\bin\Release\自动处理数据-8.exe.config
+H:\文档\C#\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\bin\Release\自动处理数据-8.exe
+H:\文档\C#\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\bin\Release\自动处理数据-8.pdb
+H:\文档\C#\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\obj\Release\自动处理数据-8.csprojResolveAssemblyReference.cache
+H:\文档\C#\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\obj\Release\自动处理数据_8.Form1.resources
+H:\文档\C#\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\obj\Release\自动处理数据_8.Properties.Resources.resources
+H:\文档\C#\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\obj\Release\自动处理数据-8.csproj.GenerateResource.Cache
+H:\文档\C#\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\obj\Release\自动处理数据-8.exe
+H:\文档\C#\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\obj\Release\自动处理数据-8.pdb
+G:\研究生课题相关\procedure\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\bin\Release\自动处理数据-8.exe.config
+G:\研究生课题相关\procedure\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\bin\Release\自动处理数据-8.exe
+G:\研究生课题相关\procedure\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\bin\Release\自动处理数据-8.pdb
+G:\研究生课题相关\procedure\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\obj\Release\自动处理数据-8.csproj.AssemblyReference.cache
+G:\研究生课题相关\procedure\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\obj\Release\自动处理数据_8.Form1.resources
+G:\研究生课题相关\procedure\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\obj\Release\自动处理数据_8.Properties.Resources.resources
+G:\研究生课题相关\procedure\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\obj\Release\自动处理数据-8.csproj.GenerateResource.cache
+G:\研究生课题相关\procedure\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\obj\Release\自动处理数据-8.csproj.CoreCompileInputs.cache
+G:\研究生课题相关\procedure\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\obj\Release\自动处理数据-8.exe
+G:\研究生课题相关\procedure\自动处理数据-8 RNAseq-pseudogene-RPKM\自动处理数据-8\obj\Release\自动处理数据-8.pdb

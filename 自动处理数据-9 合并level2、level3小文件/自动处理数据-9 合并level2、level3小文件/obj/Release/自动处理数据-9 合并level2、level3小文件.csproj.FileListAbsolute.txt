@@ -1,0 +1,9 @@
+H:\文档\C#\自动处理数据-9 合并level2、level3小文件\自动处理数据-9 合并level2、level3小文件\bin\Release\自动处理数据-9 合并level2、level3小文件.exe.config
+H:\文档\C#\自动处理数据-9 合并level2、level3小文件\自动处理数据-9 合并level2、level3小文件\bin\Release\自动处理数据-9 合并level2、level3小文件.exe
+H:\文档\C#\自动处理数据-9 合并level2、level3小文件\自动处理数据-9 合并level2、level3小文件\bin\Release\自动处理数据-9 合并level2、level3小文件.pdb
+H:\文档\C#\自动处理数据-9 合并level2、level3小文件\自动处理数据-9 合并level2、level3小文件\obj\Release\自动处理数据_9_合并level2_level3小文件.Form1.resources
+H:\文档\C#\自动处理数据-9 合并level2、level3小文件\自动处理数据-9 合并level2、level3小文件\obj\Release\自动处理数据_9_合并level2_level3小文件.Properties.Resources.resources
+H:\文档\C#\自动处理数据-9 合并level2、level3小文件\自动处理数据-9 合并level2、level3小文件\obj\Release\自动处理数据-9 合并level2、level3小文件.csproj.GenerateResource.Cache
+H:\文档\C#\自动处理数据-9 合并level2、level3小文件\自动处理数据-9 合并level2、level3小文件\obj\Release\自动处理数据-9 合并level2、level3小文件.exe
+H:\文档\C#\自动处理数据-9 合并level2、level3小文件\自动处理数据-9 合并level2、level3小文件\obj\Release\自动处理数据-9 合并level2、level3小文件.pdb
+H:\文档\C#\自动处理数据-9 合并level2、level3小文件\自动处理数据-9 合并level2、level3小文件\obj\Release\自动处理数据-9 合并level2、level3小文件.csprojResolveAssemblyReference.cache

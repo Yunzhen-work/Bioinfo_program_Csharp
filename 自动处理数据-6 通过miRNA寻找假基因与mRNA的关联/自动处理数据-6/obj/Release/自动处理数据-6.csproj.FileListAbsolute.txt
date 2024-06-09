@@ -1,0 +1,36 @@
+D:\编程\自动处理数据-5\自动处理数据-5\bin\Release\自动处理数据-6.exe.config
+D:\编程\自动处理数据-5\自动处理数据-5\bin\Release\自动处理数据-6.exe
+D:\编程\自动处理数据-5\自动处理数据-5\bin\Release\自动处理数据-6.pdb
+D:\编程\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据-6.csprojResolveAssemblyReference.cache
+D:\编程\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据_5.Form1.resources
+D:\编程\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据_6.Properties.Resources.resources
+D:\编程\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据-6.csproj.GenerateResource.Cache
+D:\编程\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据-6.exe
+D:\编程\自动处理数据-5\自动处理数据-5\obj\Release\自动处理数据-6.pdb
+D:\编程\自动处理数据-6\自动处理数据-6\bin\Release\自动处理数据-6.exe.config
+D:\编程\自动处理数据-6\自动处理数据-6\bin\Release\自动处理数据-6.exe
+D:\编程\自动处理数据-6\自动处理数据-6\bin\Release\自动处理数据-6.pdb
+D:\编程\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据-6.csprojResolveAssemblyReference.cache
+D:\编程\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据_5.Form1.resources
+D:\编程\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据_6.Properties.Resources.resources
+D:\编程\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据-6.csproj.GenerateResource.Cache
+D:\编程\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据-6.exe
+D:\编程\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据-6.pdb
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-6\自动处理数据-6\bin\Release\自动处理数据-6.exe.config
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-6\自动处理数据-6\bin\Release\自动处理数据-6.exe
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-6\自动处理数据-6\bin\Release\自动处理数据-6.pdb
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据-6.csprojResolveAssemblyReference.cache
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据_5.Form1.resources
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据_6.Properties.Resources.resources
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据-6.csproj.GenerateResource.Cache
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据-6.exe
+F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据-6.pdb
+D:\C#\自动处理数据-6\自动处理数据-6\bin\Release\自动处理数据-6.exe.config
+D:\C#\自动处理数据-6\自动处理数据-6\bin\Release\自动处理数据-6.exe
+D:\C#\自动处理数据-6\自动处理数据-6\bin\Release\自动处理数据-6.pdb
+D:\C#\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据-6.csprojResolveAssemblyReference.cache
+D:\C#\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据_5.Form1.resources
+D:\C#\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据_6.Properties.Resources.resources
+D:\C#\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据-6.csproj.GenerateResource.Cache
+D:\C#\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据-6.exe
+D:\C#\自动处理数据-6\自动处理数据-6\obj\Release\自动处理数据-6.pdb
